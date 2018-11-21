@@ -9,8 +9,11 @@ Longest Common Subsequence (LCS) problem. Given two strings, find the longest su
 ## Usage Example: 
 
   input: ALKJFI2fj9U 
-          LSJI2jj9Qup 
+  
+          LSJI2jj9Qup
+          
   output: LJI2j9
+  
 
 ## Time complexity 
 
