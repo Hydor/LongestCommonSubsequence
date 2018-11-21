@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonSubsequence", "Pro3_JingGuo\LongestCommonSubsequence.csproj", "{8DC35BDC-C2CA-4FA8-B6F5-B757A53ECA68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCSTests", "Pro3_JingGuoCorrectnessTests\LCSTests.csproj", "{8512EE26-D972-4FA5-910C-0AA28ABA73C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DC35BDC-C2CA-4FA8-B6F5-B757A53ECA68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DC35BDC-C2CA-4FA8-B6F5-B757A53ECA68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DC35BDC-C2CA-4FA8-B6F5-B757A53ECA68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DC35BDC-C2CA-4FA8-B6F5-B757A53ECA68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8512EE26-D972-4FA5-910C-0AA28ABA73C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8512EE26-D972-4FA5-910C-0AA28ABA73C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8512EE26-D972-4FA5-910C-0AA28ABA73C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8512EE26-D972-4FA5-910C-0AA28ABA73C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A588ABE8-4925-4025-B2DC-7509AB31FF75}
+	EndGlobalSection
+EndGlobal

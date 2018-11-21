@@ -1,0 +1,6 @@
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuo\bin\Debug\Pro3_JingGuo.exe.config
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuo\bin\Debug\Pro3_JingGuo.exe
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuo\bin\Debug\Pro3_JingGuo.pdb
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuo\obj\Debug\LongestCommonSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuo\obj\Debug\Pro3_JingGuo.exe
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuo\obj\Debug\Pro3_JingGuo.pdb

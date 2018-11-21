@@ -1,0 +1,17 @@
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\bin\Debug\Pro3_JingGuoCorrectnessTests.dll
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\bin\Debug\Pro3_JingGuoCorrectnessTests.pdb
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\bin\Debug\Pro3_JingGuo.exe
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\bin\Debug\Pro3_JingGuo.pdb
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\bin\Debug\Pro3_JingGuo.exe.config
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\obj\Debug\LCSTests.csprojAssemblyReference.cache
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\obj\Debug\LCSTests.csproj.CoreCompileInputs.cache
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\obj\Debug\LCSTests.csproj.CopyComplete
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\obj\Debug\Pro3_JingGuoCorrectnessTests.dll
+C:\Users\Jing\source\repos\Pro3_JingGuo\Pro3_JingGuoCorrectnessTests\obj\Debug\Pro3_JingGuoCorrectnessTests.pdb
